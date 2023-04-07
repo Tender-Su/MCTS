@@ -177,6 +177,7 @@ class 蒙特卡洛树:
 
     @classmethod
     def 翻面吃子(self, 棋盘, i, j, 轮次状态):
+        1111111
         for 方向 in 蒙特卡洛树.偏移:
             newi = i
             newj = j
